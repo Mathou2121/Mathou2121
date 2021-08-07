@@ -37,7 +37,9 @@
 
 ---
 
-  <img align="left" alt="Mathou2121's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Mathou2121&show_icons=true&hide_border=true" />
+
+[![Mathieu's GitHub stats](https://github-readme-stats.vercel.app/api?Mathou2121=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [course]: https://codeboxx.biz/
