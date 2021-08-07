@@ -38,7 +38,7 @@
 ---
 
 
-[![Mathieu's GitHub stats](https://github-readme-stats.vercel.app/api?Mathou2121=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mathieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathou2121)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
