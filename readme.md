@@ -3,7 +3,7 @@
 ## I'm a Junior Developer Excited To Learn About All Stuff Front-End!!
 
 - 🏫 I just finished my bootcamp at [Codeboxx School][course]!
-- 🤹‍♂️ I’m currently learning everything 🤣
+- 🤹‍♂️ I’m currently learning go
 - 👯 I’m looking to learn from different people
 - 🎯 2021 Goal: Finish a side project that I've been working on with friends
 - 🧗🏻‍♂️🎸 Fun fact: I love to play music, go climbing and be in the outdoors(I'm a different programmer breed)
