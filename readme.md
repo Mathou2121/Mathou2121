@@ -2,11 +2,11 @@
 
 ## I'm a Junior Developer Excited To Learn About All Stuff Front-End!!
 
-- 🏫 Graduate of Codeboxx Technology School [Codeboxx School][course]!
+- 🏫 Graduate of [Codeboxx School][course]!
 - 🤹‍♂️ I’m currently learning Rust
 - 👯 I’m looking to learn from different people
-- 🎯 2024 Goal: Growing my company: Moonshine. [moonshine]
-- 🧗🏻‍♂️🎸 Fun fact: I'm a boxer.
+- 🎯 2024 Goal: Growing my company: [Moonshine]
+- 🧗🏻‍♂️🎸 Fun fact: I'm a boxer
 
 ### Connect with me:
 
@@ -41,7 +41,7 @@
 [![Mathieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathou2121&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[moonshine]: https://https://moonshine-web.com/
+[Moonshine]: https://https://moonshine-web.com/
 [course]: https://codeboxx.biz/
 [dribbble]: https://dribbble.com/mathou2121
 [linkedin]: https://www.linkedin.com/in/mathieu-dion-208b95218/
